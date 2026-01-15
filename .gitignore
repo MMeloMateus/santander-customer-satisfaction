@@ -1,0 +1,15 @@
+# Ambiente virtual local 
+.venv/
+.vscode/
+
+# Dados não versionados (download via link no README)
+data/
+
+# Arquivos gerados automaticamente pelo Python
+__pycache__/
+
+# Checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs locais
+*.log
